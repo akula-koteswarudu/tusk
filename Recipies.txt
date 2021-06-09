@@ -4,4 +4,7 @@ chicken
 mutton
 potato fry
 
+beans
+pizza
+
 thank you!
